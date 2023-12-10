@@ -5,10 +5,10 @@
 <img align = "center" width = "47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanwafo&layout=compact"/> 
 <br />
 
-## I am a Drafter, Teacher, Father and Husband! 
+## I am a Drafter, Teacher, Project Manager and web/Software Developer! 
 
-- 🔭 I’m currently working as an Electrical Drafter
-- 🌱 I’m currently learning on Full-Stack Web Development and will proceed to Mobile Dev or Game Dev
+- 🔭 I’m currently working as an Project Manager in Electrical Drafting
+- 🌱 I’m currently on the path of being a Full-Stack Web/Software/Mobile Developer.
 - 👯 I’m looking to collaborate on my Dev journey
 - ⚡ Fun fact: loves to make art work
 
