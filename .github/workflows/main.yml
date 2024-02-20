@@ -33,7 +33,7 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@3.0.0
         with:
-          user_id: ${{ https://app.daily.dev/seanwafo"><img src="https://api.daily.dev/devcards/v2/uCZTaZhgdnVjAEnRkZ3Yp.png?type=wide&r=se9" width="652" alt="Sean Jay Mapayo's Dev Card }}
+          user_id: ${{ secrets.uCZTaZhgdnVjAEnRkZ3Yp }}
           commit_message: "chore: update ${filename}"
 
       # Runs a set of commands using the runners shell
