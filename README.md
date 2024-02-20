@@ -1,11 +1,11 @@
 # Hi there 👋, I'm Sean
 
+<a href="https://app.daily.dev/seanwafo"><img src="https://api.daily.dev/devcards/v2/uCZTaZhgdnVjAEnRkZ3Yp.png?type=wide&r=se9" width="652" alt="Sean Jay Mapayo's Dev Card"/></a>
 <img align = "center" width = "47.5%" src="https://github-readme-stats.vercel.app/api?username=seanwafo&show_icons=true&theme=outrun"/>
 <br />
 <img align = "center" width = "47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanwafo&layout=compact"/> 
 <br />
 
-<a href="https://app.daily.dev/seanwafo"><img src="https://api.daily.dev/devcards/v2/uCZTaZhgdnVjAEnRkZ3Yp.png?type=default&r=se9" width="356" alt="Sean Jay Mapayo's Dev Card"/></a>
 
 ## I am a Drafter, Teacher, Project Manager and web/Software Developer! 
 
